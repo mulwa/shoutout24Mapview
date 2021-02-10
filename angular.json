@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "s-out-location-tracker"
+    }
+  },
+  "defaultProject": "s-out-location-tracker",
+  "cli": {
+    "analytics": false
+  }
 }
